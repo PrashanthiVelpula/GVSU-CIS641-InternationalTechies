@@ -1,4 +1,4 @@
-# GVSU-CIS641-F24641
+# GVSU-CIS641-International Techies
 
 Project description (~1 paragraph)
 

@@ -24,18 +24,18 @@ Additionally, React Router will be used for navigation between pages, and other 
 
 # Method/Approach
 
-##Our estimated plan of attack includes
+## Our estimated plan of attack includes
 
-**Planning and Design**
+### Planning and Design
 We will start by defining the project scope and requirements for the **HomeGoods Inventory Management** system. Simple layout designs will be created to plan the structure of key pages, such as the login, item categories, item types, and item details. This ensures a smooth user experience for store managers. 
 
-**Frontend Development**
+### Frontend Development
 In the front-end development phase, we will use ReactJS to build the application's core components. This includes creating the login page, and pages for managing item categories, item types, and details.
 
-**Backend Development**
+### Backend Development
 For the backend, we will integrate either Firebase or MongoDB, depending on our earlier decision. The backend will handle secure login, real-time updates, and data management for item details. Store managers will be able to add, edit, or delete items, with changes reflected instantly.
 
-**Deployment**
+### Deployment
  After integrating the backend, we will conduct testing and finalize the project for deployment.
 
 
@@ -51,7 +51,7 @@ Overall, the project is estimated to take around 7 to 8 weeks.
 
 # Anticipated Problems
 
-**Backend Selection:** Selecting between MongoDB and Firebase could be difficult.
-**Data Syncing:** Maintaining the front end and backend in perfect sync can be difficult, especially if real-time updates are involved.
-**Authentication:** Especially when incorporating Firebase, implementing secure authentication for store managers may provide challenges.
+**Backend Selection**: Selecting between MongoDB and Firebase could be difficult.  
+**Data Syncing**: Maintaining the front end and backend in perfect sync can be difficult, especially if real-time updates are involved.  
+**Authentication**: Especially when incorporating Firebase, implementing secure authentication for store managers may provide challenges.  
 

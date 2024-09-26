@@ -2,8 +2,7 @@
 
 ## Project description:
 
-<p style="text-align: justify;">
-Our project, **HomeGoods Inventory Management**, is a proposed web application aimed at streamlining inventory management for store managers. The application will provide a secure login system for authorized users, allowing them to efficiently manage categories such as furniture, electronics, and home decor. Store managers will be able to add, edit, and delete inventory items, with detailed pages displaying information like price, description, and ratings. The backend will be built using either Firebase or MongoDB, ensuring efficient data storage and real-time updates. The frontend will be developed using HTML, CSS, and ReactJS, with a focus on simplicity, flexibility, and enhanced inventory control to reduce manual effort and improve operational efficiency.</p>
+Our project, **HomeGoods Inventory Management**, is a proposed web application aimed at streamlining inventory management for store managers. The application will provide a secure login system for authorized users, allowing them to efficiently manage categories such as furniture, electronics, and home decor. Store managers will be able to add, edit, and delete inventory items, with detailed pages displaying information like price, description, and ratings. The backend will be built using either Firebase or MongoDB, ensuring efficient data storage and real-time updates. The frontend will be developed using HTML, CSS, and ReactJS, with a focus on simplicity, flexibility, and enhanced inventory control to reduce manual effort and improve operational efficiency.
 
 ## Team Members and Roles
 

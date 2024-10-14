@@ -16,7 +16,7 @@ The HomeGoods Inventory Management system is a web application designed to help 
 - Real-time Item Updates (Add/Edit/Delete)
 
 ## Project Artifacts
-Below are links to our project documents and relevant artifacts:
+Below are links to our project documents:
 - [Docs](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/docs)
 - [Meetings](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/meetings)
 - [Artifacts](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/artifacts)

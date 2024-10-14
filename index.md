@@ -12,7 +12,7 @@ The HomeGoods Inventory Management system is a web application designed to help 
 
 ## Key Features:
 - User Authentication
-- Inventory Search and Filtering
+- Inventory Search
 - Real-time Item Updates (Add/Edit/Delete)
 
 ## Project Artifacts

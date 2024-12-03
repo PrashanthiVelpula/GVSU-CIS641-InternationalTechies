@@ -16,5 +16,4 @@ Goals for next week (include responsibilities)
 
 * **PRASHANTHI VELPULA** will work on CSS and deployment.        
 * **SAI SURENDRA KOMMINENI** will work on CSS and testing.      
-* **VENUKESWARI OOTLA** will work on documentcm.   
-
+* **VENUKESWARI OOTLA** will work on document.   

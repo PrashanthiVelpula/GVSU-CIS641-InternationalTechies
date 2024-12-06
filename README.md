@@ -29,11 +29,11 @@ Our project, **HomeGoods Inventory Management**, is a proposed web application a
 ### **Installation Packages**
 Run the following commands to install the required packages:
 ```bash
-npm install
+npm install               # Installs project dependencies
 npm install react-router-dom
 npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
-npm install firebase
-npm install -g firebase-tools
+npm install firebase       # For backend integration
+npm install -g firebase-tools  # Firebase CLI for deployment and management
 ```
 
 ### Additional Information:
@@ -45,7 +45,7 @@ cd Project_Name
 npm install
 npm run dev
 
-### Deployment Using GitHub Pages
+# Deployment Using GitHub Pages
 1. npm install gh-pages --save-dev
 2. Add given lines before "build": "vite build" in package.json file.
 	1. "predeploy": "npm run build",

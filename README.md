@@ -8,7 +8,7 @@ Store managers can efficiently handle categories such as furniture, electronics,
 
 The backend leverages **Firebase**, offering reliable authentication, real-time data updates, and secure data storage. The frontend is built using **ReactJS**, styled with **HTML** and **CSS**, and enhanced with dynamic theming capabilities, including a **dark mode** option. These features focus on providing a user-friendly, responsive interface that simplifies inventory control, reduces manual effort, and boosts operational efficiency.
 
-## Key Functionalities:
+### Key Functionalities:
 
 - **Dark Mode Support**: Provides a user-friendly interface that can adapt to light or dark themes based on user preferences.
 - **Real-Time Inventory Updates**: Changes to inventory items (additions, edits, or deletions) are instantly reflected across all sessions.

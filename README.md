@@ -1,5 +1,7 @@
 # GVSU-CIS641-International Techies
 
+# HomeGoods Inventory Management
+
 ## Project description:
 
 Our project, **HomeGoods Inventory Management**, is a comprehensive web application designed to streamline inventory management for store managers. The application features a secure login system that ensures only authorized users can access and manage the inventory.

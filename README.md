@@ -31,7 +31,7 @@ npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 npm install firebase
 npm install -g firebase-tools
 
-
+##Additional Information:
 ### Steps to Create React Application
 
 npm create vite@latest > Enter Project_Name

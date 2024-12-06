@@ -16,16 +16,21 @@ Our project, **HomeGoods Inventory Management**, is a proposed web application a
 ## Prerequisites
 
 ## Run Instructions
-### Development Environment
-1. Visual Studio Code
-2. Download Node.js //npm
+## **Development Environment**
+1. **Install Visual Studio Code**  
+   Download and install Visual Studio Code from [here](https://code.visualstudio.com/).
+2. **Download and Install Node.js**  
+   Download Node.js (which includes npm) from [here](https://nodejs.org/).
 
-### Installation Packages
+## **Installation Packages**
+Run the following commands to install the required packages:
+```bash
 npm install
 npm install react-router-dom
 npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 npm install firebase
 npm install -g firebase-tools
+
 
 ### Steps to Create React Application
 

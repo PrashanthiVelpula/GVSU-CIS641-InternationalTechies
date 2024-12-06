@@ -34,9 +34,11 @@ npm install react-router-dom
 npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 npm install firebase
 npm install -g firebase-tools
+```
 
-##Additional Information:
-### Steps to Create React Application
+### Additional Information:
+```bash
+# Steps to Create React Application
 
 npm create vite@latest > Enter Project_Name
 cd Project_Name
@@ -52,37 +54,6 @@ npm run dev
 	1. base: "/YOUR_REPOSITORY_NAME",
 4. npm run deploy
 5.New branch (gh-pages) will be created in which GitHub page is deployed.
-
-```bash
-npm create vite@latest    # Enter Project_Name when prompted
-cd Project_Name
-npm install
-npm run dev
 ```
 
----
 
-### Deployment Using GitHub Pages
-
-1. Install `gh-pages` as a development dependency:
-   ```bash
-   npm install gh-pages --save-dev
-   ```
-
-2. Add the following lines to the `scripts` section in `package.json` before the `"build": "vite build"` script:
-   ```json
-   "predeploy": "npm run build",
-   "deploy": "gh-pages -d dist",
-   ```
-
-3. Update `vite.config.js` by adding the following line before `plugins: [react()]`:
-   ```javascript
-   base: "/YOUR_REPOSITORY_NAME",
-   ```
-
-4. Deploy the application:
-   ```bash
-   npm run deploy
-   ```
-
-5. A new branch (`gh-pages`) will be created, hosting your deployed GitHub Page.

@@ -17,7 +17,7 @@ Our project, **HomeGoods Inventory Management**, is a proposed web application a
 - **React.js**: Familiarity with React components, hooks (like `useState`, `useEffect`), and props.
 - **JavaScript (ES6+)**: Understanding of modern JavaScript features such as arrow functions, destructuring, and modules.
 - **HTML/CSS**: Basic knowledge of HTML structure and CSS styling.
-- **Firebase**: General understanding of Firebase services (e.g., Firestore, Authentication).
+- **Firebase**: General understanding of Firebase services (e.g., Realtime Database, Authentication).
 
 ## Run Instructions
 ### **Development Environment**
@@ -39,7 +39,6 @@ npm install -g firebase-tools  # Firebase CLI for deployment and management
 ### Additional Information:
 ```bash
 # Steps to Create React Application
-
 npm create vite@latest > Enter Project_Name
 cd Project_Name
 npm install

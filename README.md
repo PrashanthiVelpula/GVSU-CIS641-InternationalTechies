@@ -14,6 +14,10 @@ Our project, **HomeGoods Inventory Management**, is a proposed web application a
 - [VENUKESWARI OOTLA](https://github.com/Venuootla/CIS-641-HW2-OOTLA)
 
 ## Prerequisites
+- **React.js**: Familiarity with React components, hooks (like `useState`, `useEffect`), and props.
+- **JavaScript (ES6+)**: Understanding of modern JavaScript features such as arrow functions, destructuring, and modules.
+- **HTML/CSS**: Basic knowledge of HTML structure and CSS styling.
+- **Firebase**: General understanding of Firebase services (e.g., Firestore, Authentication).
 
 ## Run Instructions
 ## **Development Environment**
@@ -48,3 +52,37 @@ npm run dev
 	1. base: "/YOUR_REPOSITORY_NAME",
 4. npm run deploy
 5.New branch (gh-pages) will be created in which GitHub page is deployed.
+
+```bash
+npm create vite@latest    # Enter Project_Name when prompted
+cd Project_Name
+npm install
+npm run dev
+```
+
+---
+
+### Deployment Using GitHub Pages
+
+1. Install `gh-pages` as a development dependency:
+   ```bash
+   npm install gh-pages --save-dev
+   ```
+
+2. Add the following lines to the `scripts` section in `package.json` before the `"build": "vite build"` script:
+   ```json
+   "predeploy": "npm run build",
+   "deploy": "gh-pages -d dist",
+   ```
+
+3. Update `vite.config.js` by adding the following line before `plugins: [react()]`:
+   ```javascript
+   base: "/YOUR_REPOSITORY_NAME",
+   ```
+
+4. Deploy the application:
+   ```bash
+   npm run deploy
+   ```
+
+5. A new branch (`gh-pages`) will be created, hosting your deployed GitHub Page.

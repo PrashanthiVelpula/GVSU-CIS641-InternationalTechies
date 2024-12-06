@@ -16,3 +16,30 @@ Our project, **HomeGoods Inventory Management**, is a proposed web application a
 ## Prerequisites
 
 ## Run Instructions
+### Development Environment
+1. Visual Studio Code
+2. Download Node.js //npm
+
+### Installation Packages
+npm install
+npm install react-router-dom
+npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+npm install firebase
+npm install -g firebase-tools
+
+### Steps to Create React Application
+
+npm create vite@latest > Enter Project_Name
+cd Project_Name
+npm install
+npm run dev
+
+### Deployment Using GitHub Pages
+1. npm install gh-pages --save-dev
+2. Add given lines before "build": "vite build" in package.json file.
+	1. "predeploy": "npm run build",
+	2. "deploy": "gh-pages -d dist",
+3. Then in the vite.config.js file add this line before plugins: [react()]
+	1. base: "/YOUR_REPOSITORY_NAME",
+4. npm run deploy
+5.New branch (gh-pages) will be created in which GitHub page is deployed.

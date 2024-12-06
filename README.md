@@ -19,12 +19,9 @@ This project represents a robust solution for inventory management, designed to 
 
 ## Team Members and Roles
 
-* Member 1 
-- [SAI SURENDRA KOMMINENI](https://github.com/saisurendrakommineni/CIS641-HW2-KOMMINENI)
-* Member 2 
-- [PRASHANTHI VELPULA](https://github.com/PrashanthiVelpula/CIS641-HW2-Velpula.git)
-* Member 3 
-- [VENUKESWARI OOTLA](https://github.com/Venuootla/CIS-641-HW2-OOTLA)
+* [SAI SURENDRA KOMMINENI](https://github.com/saisurendrakommineni/CIS641-HW2-KOMMINENI)
+* [PRASHANTHI VELPULA](https://github.com/PrashanthiVelpula/CIS641-HW2-Velpula.git)
+* [VENUKESWARI OOTLA](https://github.com/Venuootla/CIS-641-HW2-OOTLA)
 
 ## Prerequisites
 - **React.js**: Familiarity with React components, hooks (like `useState`, `useEffect`), and props.

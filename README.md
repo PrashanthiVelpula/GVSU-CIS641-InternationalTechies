@@ -65,5 +65,10 @@ npm run dev
 4. npm run deploy
 5.New branch (gh-pages) will be created in which GitHub page is deployed.
 ```
-
-
+## Project Artifacts
+Below are links to our project documents:
+- [Docs](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/docs)
+- [Meetings](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/meetings)
+- [Artifacts](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/artifacts)
+- [Project Proposal](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/proposal-template.md)
+- [Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification.md)

@@ -2,7 +2,18 @@
 
 ## Project description:
 
-Our project, **HomeGoods Inventory Management**, is a proposed web application aimed at streamlining inventory management for store managers. The application will provide a secure login system for authorized users, allowing them to efficiently manage categories such as furniture, electronics, and home decor. Store managers will be able to add, edit, and delete inventory items, with detailed pages displaying information like price, description, and ratings. The backend will be built using either Firebase or MongoDB, ensuring efficient data storage and real-time updates. The frontend will be developed using HTML, CSS, and ReactJS, with a focus on simplicity, flexibility, and enhanced inventory control to reduce manual effort and improve operational efficiency.
+Our project, **HomeGoods Inventory Management**, is a comprehensive web application designed to streamline inventory management for store managers. The application features a secure login system that ensures only authorized users can access and manage the inventory.
+
+Store managers can efficiently handle categories such as furniture, electronics, home decor, and more. The platform allows them to add, edit, and delete inventory items with ease. Each inventory item includes detailed information such as price, description, stock, and ratings to aid in effective management.
+
+The backend leverages **Firebase**, offering reliable authentication, real-time data updates, and secure data storage. The frontend is built using **ReactJS**, styled with **HTML** and **CSS**, and enhanced with dynamic theming capabilities, including a **dark mode** option. These features focus on providing a user-friendly, responsive interface that simplifies inventory control, reduces manual effort, and boosts operational efficiency.
+
+## Key Functionalities:
+
+- **Dark Mode Support**: Provides a user-friendly interface that can adapt to light or dark themes based on user preferences.
+- **Real-Time Inventory Updates**: Changes to inventory items (additions, edits, or deletions) are instantly reflected across all sessions.
+
+This project represents a robust solution for inventory management, designed to scale with the needs of modern store managers.
 
 ## Team Members and Roles
 

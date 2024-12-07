@@ -166,4 +166,59 @@ Ensure prompt identification, reporting, and resolution of any discovered issues
 - **Software Updates:** Regularly release updates to fix bugs, enhance performance, and introduce new features. Notify users in advance about upcoming updates and provide documentation for any significant changes.  
 
 # Traceability links
+This section maps requirements to artifacts, ensuring they are addressed throughout the project.
+
+## Use Case Diagram Traceability
+
+| Artifact ID |      Artifact Name       | Requirement ID         |
+| :---------: | :----------------------: | :---------------------: |
+| UseCase1    | [Create Account](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR1, FR2, FR3, NFR14 |
+| UseCase2    | [Login](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR4, FR5, NFR11 |
+| UseCase3    | [Reset Password](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR6, NFR5 |
+| UseCase4    | [System Navigation](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR7 - FR14, FR29, FR30, NFR2 |
+| UseCase5    | [Inventory Management](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR15 - FR22, NFR2, NFR4 |
+| UseCase5_1    | [Alert Messages](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR23 - FR28 |
+| UseCase6    | [Search Functionality](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR31, NFR1 |
+| UseCase7    | [Stock Count](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR32, FR33 |
+| UseCase8    | [Dark/Light Theme](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR34, NFR13 |
+| UseCase9   | [Logout](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg) | FR35 |
+
+## Class Diagram Traceability
+
+| Artifact Name | Requirement ID |
+| :------------: | :------------: |
+| [Login](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR4, FR5, FR6, FR8, FR35, NFR5, NFR11 |
+| [Create Account](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR1, FR2, FR3, FR7, NFR14 |
+| [Category](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR9, FR10, FR14, FR15, FR17, FR19, FR31, FR32, FR33, FR34, NFR1, NFR4 |
+| [AlertMessage](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR23-FR28 |
+| [ItemTypes](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR11, FR16, FR20, FR30, NFR1 |
+| [AddItem](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR10, FR16, FR18, FR29, NFR4 |
+| [ItemDetails](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR12, FR21, FR30 |
+| [EditItemDetails](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg) | FR13, FR22, FR29, NFR4 |
+
+## Activity Diagram Traceability
+
+| Artifact ID | Artifact Name | Requirement ID |
+| :---------: | :---------------------------: | :------------: |
+| Activity State1 | [Create Account](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR1, FR2, FR3, FR7, NFR14 |
+| Activity State2 | [Login](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR4, NFR11 |
+| Decision Node1 | [Is Login Success? No](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR5 |
+| Decision Node2 | [Forgot Password? Yes](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR6, FR8, NFR5 |
+| Activity State3 | [Access Inventory Dashboard](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR9, FR14, NFR2 |
+| Decision Node3 | [Toggle Dark Mode? Yes](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR34, NFR13 |
+| Decision Node4 | [View Stock Count? Yes](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR32, FR33 |
+| Activity State4 | [View Categories](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR9, FR15 |
+| Decision Node5 | [Add/Delete Category? Yes](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR10, FR15, FR17, FR19, FR23, FR26, NFR4 |
+| Activity State5 | [View Item Types](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR11, FR16 |
+| Decision Node6 | [Add/Delete ItemType? Yes](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR10, FR16, FR18, FR20, FR24, FR27, FR29, NFR4 |
+| Activity State6 | [View Item Details](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR12, FR21 |
+| Decision Node7 | [Edit Item Details](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR13, FR22, FR25, FR29, NFR4 |
+| Activity State7 | [Logout](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg) | FR28, FR25 |
+
+# Software Artifacts
+This section contains all diagrams related to Home Goods Inventory Management.  
+
+[Usecase Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg)  
+[Class Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg)  
+[Activity Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg)
 

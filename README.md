@@ -36,7 +36,7 @@ This project represents a robust solution for inventory management, designed to 
 2. **Download and Install Node.js**  
    Download Node.js (which includes npm) from [here](https://nodejs.org/).
 
-### **2. Installation Packages**
+### **2. Install Dependencies**
 Run the following commands to install the required packages:
 ```bash
 npm install               # Installs project dependencies
@@ -56,12 +56,6 @@ npm run dev                 # Access via http://localhost:<port>
 
 ### **5. Deployment**
 To deploy the application on GitHub Pages:
-1. Configure deployment scripts in `package.json`:
-    ```json
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-    ```
-2. Deploy using:
     ```bash
     npm run deploy
     ```

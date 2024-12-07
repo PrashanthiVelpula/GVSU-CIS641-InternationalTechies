@@ -6,7 +6,7 @@
 
 Our project, **HomeGoods Inventory Management**, is a comprehensive web application designed to streamline inventory management for store managers. The application features a secure login system that ensures only authorized users can access and manage the inventory.
 
-Store managers can efficiently handle categories such as furniture, electronics, home decor, and more. The platform allows them to add, edit, and delete inventory items with ease. Each inventory item includes detailed information such as price, description, stock, and ratings to aid in effective management.
+Store managers can efficiently handle categories such as furniture, electronics, home decor, and more. The platform allows them to add, edit, and delete inventory items with ease. Each inventory item includes detailed information such as price, description and stock to aid in effective management.
 
 The backend leverages **Firebase**, offering reliable authentication, real-time data updates, and secure data storage. The frontend is built using **ReactJS**, styled with **HTML** and **CSS**, and enhanced with dynamic theming capabilities, including a **dark mode** option. These features focus on providing a user-friendly, responsive interface that simplifies inventory control, reduces manual effort, and boosts operational efficiency.
 

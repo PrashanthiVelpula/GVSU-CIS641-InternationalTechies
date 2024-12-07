@@ -97,4 +97,4 @@ npm run dev
 [Final Project Deployment Link](https://prashanthivelpula.github.io/CIS_641_Final_Project/)
 ### Sample Username and Password to login into website
 username:"saisurendrakommineni@gmail.com"  
-password:"saisurendra123."
+password:"Saisurendra123."

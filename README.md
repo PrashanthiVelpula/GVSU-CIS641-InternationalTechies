@@ -95,3 +95,6 @@ npm run dev
 - [Final Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification_final.md)
 ## Deployment Link
 [Final Project Deployment Link](https://prashanthivelpula.github.io/CIS_641_Final_Project/)
+### Sample Username and Password to login into website
+username:"saisurendrakommineni@gmail.com"  
+password:"saisurendra123."

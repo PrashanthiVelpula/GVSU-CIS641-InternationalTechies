@@ -70,3 +70,5 @@ npm run dev
 - [Artifacts](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/artifacts)
 - [Project Proposal](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/proposal-template.md)
 - [Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification.md)
+- [Final Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification_final.md)
+- [Tests](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/tests)

@@ -68,8 +68,11 @@ npm run dev
 - [Docs](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/docs)
 - [Meetings](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/meetings)
 - [Artifacts](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/artifacts)
+- [src](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/src)
+- [Tests](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/tests)
+- [Website](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/website)
 - [Project Proposal](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/proposal-template.md)
 - [Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification.md)
 - [Final Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification_final.md)
-- [Tests](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/tests)
-- [Final Project Deployment Link](https://prashanthivelpula.github.io/CIS_641_Final_Project/)
+## Deployment Link
+[Final Project Deployment Link](https://prashanthivelpula.github.io/CIS_641_Final_Project/)

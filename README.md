@@ -1,5 +1,7 @@
 # GVSU-CIS641-International Techies
 
+# HomeGoods Inventory Management
+
 ## Project description:
 
 Our project, **HomeGoods Inventory Management**, is a comprehensive web application designed to streamline inventory management for store managers. The application features a secure login system that ensures only authorized users can access and manage the inventory.
@@ -17,12 +19,9 @@ This project represents a robust solution for inventory management, designed to 
 
 ## Team Members and Roles
 
-* Member 1 
-- [SAI SURENDRA KOMMINENI](https://github.com/saisurendrakommineni/CIS641-HW2-KOMMINENI)
-* Member 2 
-- [PRASHANTHI VELPULA](https://github.com/PrashanthiVelpula/CIS641-HW2-Velpula.git)
-* Member 3 
-- [VENUKESWARI OOTLA](https://github.com/Venuootla/CIS-641-HW2-OOTLA)
+* [SAI SURENDRA KOMMINENI](https://github.com/saisurendrakommineni/CIS641-HW2-KOMMINENI)
+* [PRASHANTHI VELPULA](https://github.com/PrashanthiVelpula/CIS641-HW2-Velpula.git)
+* [VENUKESWARI OOTLA](https://github.com/Venuootla/CIS-641-HW2-OOTLA)
 
 ## Prerequisites
 - **React.js**: Familiarity with React components, hooks (like `useState`, `useEffect`), and props.
@@ -65,5 +64,9 @@ npm run dev
 4. npm run deploy
 5.New branch (gh-pages) will be created in which GitHub page is deployed.
 ```
-
-
+## Links
+- [Docs](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/docs)
+- [Meetings](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/meetings)
+- [Artifacts](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/tree/main/artifacts)
+- [Project Proposal](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/proposal-template.md)
+- [Software Requirements Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/docs/software_requirements_specification.md)

@@ -30,13 +30,13 @@ This project represents a robust solution for inventory management, designed to 
 - **Firebase**: General understanding of Firebase services (e.g., Realtime Database, Authentication).
 
 ## Run Instructions
-### **Development Environment**
+### **1. Development Environment**
 1. **Install Visual Studio Code**  
    Download and install Visual Studio Code from [here](https://code.visualstudio.com/).
 2. **Download and Install Node.js**  
    Download Node.js (which includes npm) from [here](https://nodejs.org/).
 
-### **Installation Packages**
+### **2. Installation Packages**
 Run the following commands to install the required packages:
 ```bash
 npm install               # Installs project dependencies
@@ -45,6 +45,28 @@ npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 npm install firebase       # For backend integration
 npm install -g firebase-tools  # Firebase CLI for deployment and management
 ```
+### **3. Run the Application**
+Start the development server using:
+```bash
+npm run dev                 # Access via http://localhost:<port>
+```
+### **4. Testing**
+- Test the application locally.
+- Verify features like adding/editing items and Firebase integration.
+
+### **5. Deployment**
+To deploy the application on GitHub Pages:
+1. Configure deployment scripts in `package.json`:
+    ```json
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+    ```
+2. Deploy using:
+    ```bash
+    npm run deploy
+    ```
+This will deploy the application and create a `gh-pages` branch for GitHub Pages.
+
 
 ### Additional Information:
 ```bash

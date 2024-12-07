@@ -220,5 +220,11 @@ This section contains all diagrams related to Home Goods Inventory Management.
 
 [Usecase Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Usecase.jpg)  
 [Class Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Class1.jpg)  
-[Activity Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg)
+[Activity Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Final_Activity.jpg)  
+[Class Responsibility Collaborator Cards](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Class_Responsibility_Collaborator_cards.pdf)  
+[Class Specification](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Class_Specification.pdf)  
+[Object Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Object_Diagram.pdf)  
+[Sequence Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Sequence_Diagram.pdf) 
+[State machine Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/State_machine_Diagram.pdf)  
+[Windows Navigation Diagram](https://github.com/PrashanthiVelpula/GVSU-CIS641-InternationalTechies/blob/main/artifacts/Windows_Navigation_Diagram.pdf)  
 

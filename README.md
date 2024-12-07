@@ -36,7 +36,10 @@ This project represents a robust solution for inventory management, designed to 
 2. **Download and Install Node.js**  
    Download Node.js (which includes npm) from [here](https://nodejs.org/).
 
-### **2. Install Dependencies**
+### **2. Clone the Project**
+Clone the project repository to your local machine:
+
+### **3. Install Dependencies**
 Run the following commands to install the required packages:
 ```bash
 npm install               # Installs project dependencies
@@ -45,16 +48,16 @@ npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 npm install firebase       # For backend integration
 npm install -g firebase-tools  # Firebase CLI for deployment and management
 ```
-### **3. Run the Application**
+### **4. Run the Application**
 Start the development server using:
 ```bash
 npm run dev                 # Access via http://localhost:<port>
 ```
-### **4. Testing**
+### **5. Testing**
 - Test the application locally.
 - Verify features like adding/editing items and Firebase integration.
 
-### **5. Deployment**
+### **6. Deployment**
 To deploy the application on GitHub Pages:
 ```bash
 npm run deploy

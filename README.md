@@ -56,9 +56,9 @@ npm run dev                 # Access via http://localhost:<port>
 
 ### **5. Deployment**
 To deploy the application on GitHub Pages:
-    ```bash
-    npm run deploy
-    ```
+```bash
+npm run deploy
+```
 This will deploy the application and create a `gh-pages` branch for GitHub Pages.
 
 
